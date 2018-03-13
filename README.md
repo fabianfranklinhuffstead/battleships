@@ -10,4 +10,4 @@
 </ul>
 
 <p>Please contact for fixes, changes further instructions</p>
-<p>Future developments: Considerations - multiplayer, grid resize</p>
+<p>Future developments: Considerations - multiplayer, grid resize, animation</p>
