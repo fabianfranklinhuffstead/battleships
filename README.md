@@ -1,6 +1,6 @@
 # battleships
 
-<p>A solution for a basic python battleship game</p>
+<p>A solution for a basic Python battleship game</p>
 
 <h2>The task: </h2>
 <ul>
