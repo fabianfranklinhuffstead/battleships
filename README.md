@@ -1,6 +1,6 @@
 # battleships
 
-<p>A solution for a simple Python battleship game. This is base on the 1967 plastic board game battleship. 🛳</p>
+<p>A solution for a simple Python 🐍 battleship game. This is base on the 1967 plastic board game battleship. 🛳</p>
 
 <h2>The task: </h2>
 <ul>
